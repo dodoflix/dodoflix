@@ -1,3 +1,6 @@
+# About Me
+I'm a Turkish 20 yers old boy who studying computer programming.
+
 # Social
 ### Lets make it together!
 - Discord: dodo#1337
