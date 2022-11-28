@@ -1,5 +1,6 @@
 # About Me
 I'm 20 y.o. Turkish boy who studying computer programming.
+[![trophy](https://github-profile-trophy.vercel.app/?username=dodoflix)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Social
 ### Lets make it together!
