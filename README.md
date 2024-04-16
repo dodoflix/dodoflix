@@ -1,2 +1,2 @@
 # About Me
-I'm 21 y.o. Turkish boy who love computers.
+I'm 2x y.o. Turkish boy who love computers.
