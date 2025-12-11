@@ -4,7 +4,7 @@
 
 **Software & DevOps Developer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=2000&color=888888&center=true&vCenter=true&repeat=true&width=435&lines=Building+things+that+matter.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=2000&color=888888&center=true&vCenter=true&repeat=true&width=435&lines=building+worse+possible+bs.)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dodoflix&bg_color=transparent&color=888888&line=666666&point=444444&area=true&area_color=88888820&hide_border=true&custom_title=)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dodoflix&bg_color=transparent&color=888888&line=666666&point=444444&area=true&area_color=88888820&hide_border=true&custom_title=wasted+life+graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
