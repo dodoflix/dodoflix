@@ -4,7 +4,7 @@
 
 **Software & DevOps Developer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=2000&color=888888&center=true&vCenter=true&repeat=true&width=435&lines=building+worse+possible+bs.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=2000&color=888888&center=true&vCenter=true&repeat=true&width=435&lines=building+worse+possible+bs)](https://git.io/typing-svg)
 
 </div>
 
