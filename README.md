@@ -1,2 +1,51 @@
-# About Me
-I'm 2x y.o. Turkish boy who love computers.
+<div align="center">
+
+# Doğukan Metan
+
+**Software Developer from Turkey**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=2000&color=888888&center=true&vCenter=true&repeat=true&width=435&lines=Building+things+that+matter.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dodoflix&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=888888&fire=888888&currStreakLabel=666666&sideLabels=888888&currStreakNum=444444&sideNums=666666&dates=999999)](https://git.io/streak-stats)
+
+<br>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dodoflix&bg_color=transparent&color=888888&line=666666&point=444444&area=true&area_color=88888820&hide_border=true&custom_title=)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A0A0A?style=flat&logo=linkedin&logoColor=888888)](https://linkedin.com/in/)
+[![Twitter](https://img.shields.io/badge/twitter-0A0A0A?style=flat&logo=x&logoColor=888888)](https://x.com/dodoflix0)
+[![Email](https://img.shields.io/badge/email-0A0A0A?style=flat&logo=gmail&logoColor=888888)](mailto:dogukanmetan@gmail.com)
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=dodoflix&color=888888&style=flat&label=visitors)
+
+<br>
+
+</div>
