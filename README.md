@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A0A0A?style=flat&logo=linkedin&logoColor=888888)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A0A0A?style=flat&logo=linkedin&logoColor=888888)](https://linkedin.com/in/dogukan-metan/)
 [![Twitter](https://img.shields.io/badge/twitter-0A0A0A?style=flat&logo=x&logoColor=888888)](https://x.com/dodoflix0)
 [![Email](https://img.shields.io/badge/email-0A0A0A?style=flat&logo=gmail&logoColor=888888)](mailto:dogukanmetan@gmail.com)
 
