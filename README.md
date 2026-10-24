@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![wasted life graph](https://ghchart.rshah.org/888888/dodoflix)](https://github.com/dodoflix)
+[![Activity Graph](https://activity-graph.vercel.app/graph?username=dodoflix&bg_color=transparent&color=888888&line=666666&point=444444&area=true&area_color=88888820&hide_border=true&custom_title=wasted+life+graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
